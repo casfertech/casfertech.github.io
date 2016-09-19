@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We are a budding Startup trying to bridge the gaps in the logistics sector [Freightrates.in](http://freightrates.in/) is a website owned by [CasFer Technologies pvt. ltd. (opc)](http://casfertechnologies.com/) .From package deliveries to vehicle requirements, we give the best Rates for your Freight !!!
