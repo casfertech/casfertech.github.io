@@ -1,18 +1,14 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
+    "link": "http://facebook.com/freightrates.in"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/casfertech"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "link": "http://www.linkedin.com/in/freightrates"
   }
 ]
