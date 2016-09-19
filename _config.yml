@@ -1,14 +1,14 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: CasFer Tech
+description: Blog by CasFer Technologies Pvt. Ltd. (opc)
+author: CasFer Tech
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/casfertech
+about: Freelancer, developer, Blogger,  product sourcing
 
 baseurl: ""
-url: "http://aboutashu.com/hcz-jekyll-blog"
+url: "http://casfertechnologies.com/"
 
-disqus_shortname: aboutashu
+disqus_shortname: casfertech-github-io
 google_analytics: UA-72862926-1
 
 share:
