@@ -11,7 +11,9 @@ Brain child one of Goa's very own son born and raised in Cuncolim. There is a sm
 It started with the notion of being one's own boss! and good deal of research and hard work in the field of freight forwarders and
 logistics and how much pain it is to find a transporter who will transport your good from point A to point B for a bargain!
 
-![business card](/assets/aboutus/businesscard.jpg);
+![business card](/assets/aboutus/businesscard.jpg)
+
+<img src="/assets/aboutus/businesscard.jpg" alt="business card" class="img-responsive center-block" />
 
 The first baby of the company is '[FreightRates](http://freightrates.in)', an online platform
 making sure that you (yes you!) get the best deals to transport you freight from source to destination. If your a transporter,
