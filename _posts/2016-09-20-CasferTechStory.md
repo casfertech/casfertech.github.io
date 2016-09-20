@@ -6,6 +6,7 @@ categories: aboutus
 ---
 
 <img src="/static/img/logo.png" class="img-rounded" alt="business card" width="56" height="56">
+<br/>
 
 The story  
 -------
