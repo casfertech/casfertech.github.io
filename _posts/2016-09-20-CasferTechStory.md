@@ -18,6 +18,7 @@ FreightRates
 The first baby of the company is '[FreightRates](http://freightrates.in)', an online platform
 making sure that you (yes you!) get the best deals to transport you freight from source to destination. If your a transporter,
 then we will make sure that you always have a truck full of goods!
+<br/>
 <img src="/assets/aboutus/businesscard.jpg" alt="business card" class="img-responsive center-block" />
 
 
