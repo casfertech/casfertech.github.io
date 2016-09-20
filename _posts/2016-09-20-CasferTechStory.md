@@ -5,7 +5,7 @@ date: 2016-09-20
 categories: aboutus
 ---
 
-The story  <img src="/static/img/logo.png" class="img-rounded img-responsive center-block" alt="business card" width="56" height="56">
+The story  <img src="/static/img/logo.png" class="img-rounded" alt="business card" width="56" height="56">
 -------
 
 It may quietly be the first tech startup from the land of freedom fighters (Cuncolim, if you didn't know!).
