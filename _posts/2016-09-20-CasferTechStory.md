@@ -5,6 +5,8 @@ date: 2016-09-20
 categories: aboutus
 ---
 
+The story
+-------
 It may quietly be the first tech startup from the land of freedom fighters (Cuncolim, if you didn't know!).
 
 Brain child one of Goa's very own son born and raised in Cuncolim. There is a small story behind this fresh startup from Goa. 
