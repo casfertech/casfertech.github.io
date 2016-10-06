@@ -7,7 +7,7 @@ categories: [sourcing, india]
 
 
 
-  <img src="/static/img/logo.png" class="img-rounded" alt="business card" width="56" height="56">
+  <img src="/static/img/logo.png" class="img-rounded" align= "middle" alt="business card" width="56" height="56">
 
 
 <br/>
