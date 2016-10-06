@@ -7,10 +7,8 @@ categories: [sourcing, india]
 
 
 
-<div class="container">
-<div class="row">
   <img src="/static/img/logo.png" class="img-rounded center-block" alt="business card" width="56" height="56">
-</div>
+
 
 <br/>
 
