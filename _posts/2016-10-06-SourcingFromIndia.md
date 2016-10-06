@@ -5,6 +5,8 @@ date: 2016-10-06
 categories: [sourcing, india]
 ---
 
+<img src="/static/img/logo.png" align="middle" class="img-rounded" alt="business card" width="56" height="56">
+<br/>
 
 India has been making great strides of being if not the best ,the next best manufacturing hub after China , Programmes like ‘Make in India’ backed by the government has not only opened up means of setting up new ventures but it  also provides a platform for Indian manufacturers to market their products globally
 
