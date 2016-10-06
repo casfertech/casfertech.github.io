@@ -9,7 +9,7 @@ categories: [sourcing, india]
 
 <div class="container">
 <div class="row">
-  <div class="span4"><img src="/static/img/logo.png" class="img-rounded center-block" alt="business card" width="56" height="56"></div>
+  <img src="/static/img/logo.png" class="img-rounded center-block" alt="business card" width="56" height="56">
 </div>
 
 <br/>
