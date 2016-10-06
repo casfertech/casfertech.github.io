@@ -14,16 +14,16 @@ The country is well on its way in making India a country where product sourcing 
 
 Firms like CasFer Technologies help overseas customers to
 
-·         Search the best suppliers
+* Search the best suppliers
 
-·         Float RFQ bids  and analyse quotations for best prices and as per requested standards
+* Float RFQ bids  and analyse quotations for best prices and as per requested standards
 
-·         Carry out Supplier feasibility and assessment
+* Carry out Supplier feasibility and assessment
 
-·         Handle grievances during the sourcing process
+* Handle grievances during the sourcing process
 
-·         Cost  reduction initiatives with suppliers year on year
+* Cost  reduction initiatives with suppliers year on year
 
-In short you will notice a significant reduction in business risks as the firm (CasFer Technologies) keeps a tab on the quality and the price of the products through its extensive research and set standards
+In short you will notice a significant reduction in business risks as the firm ([CasFer Technologies](http://casfertechnologies.com/)) keeps a tab on the quality and the price of the products through its extensive research and set standards
 
 The team is an energetic bunch of experienced professionals who know how businesses work in the west and helps you to effortlessly connect and meet your needs for sourcing the right products
